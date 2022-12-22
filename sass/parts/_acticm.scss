@@ -1,0 +1,20 @@
+.actividadcm{
+    margin-top: 3rem;
+}
+
+.container, 
+.container-fluid {
+    width: 100%;
+    padding-right: 0px;
+    padding-left: 0px;
+    margin-right: auto;
+    margin-left: auto;
+}
+.btn-primary {
+    color: #fff;
+    background-color: #099492;
+    border-color: #007bff;
+    &:hover{
+        background-color: #094d4c;
+    }
+}

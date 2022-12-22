@@ -1,0 +1,21 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+@import "../sass/parts/variables";
+@import "../sass/parts/index";
+@import "../sass/parts/header";
+@import "../sass/parts/footer";
+@import "../sass/parts/sermedicina";
+@import "../sass/parts/programas";
+@import "../sass/parts/acticm";
+@import "../sass/parts/con";
+
+
+body{
+    margin: 0;
+    font-family: 'Montserrat', sans-serif;
+}
+
+/* El import de las media Q van al final*/
